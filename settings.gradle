@@ -1,0 +1,4 @@
+rootProject.name = 'SEVENTHNLAB'
+include 'src:main:zadanie2'
+findProject(':src:main:zadanie2')?.name = 'zadanie2'
+
